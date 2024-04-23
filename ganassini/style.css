@@ -1,0 +1,82 @@
+body {
+	background-image: url('sfondo1.jpg');
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+.container {
+	text-align: center;
+	width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+th, td {
+            padding: 70px; /* Aggiunto spazio tra le scritte */
+            text-align: center;
+        }
+
+header {
+    background-color: #f2b705;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    color: #333;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+main {
+    flex: 1; 
+}
+
+table.story-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.story-table td {
+    padding: 20px;
+    vertical-align: top;
+}
+
+.story-table img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #f2b705;
+    padding: 20px 0;
+    text-align: center;
+	text-align: down;
+}
+
+footer p {
+    margin: 0;
+    color: #333;
+}
