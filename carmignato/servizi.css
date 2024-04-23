@@ -1,0 +1,124 @@
+
+.fisrt {
+    width: 100%;
+    max-width: 200%;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+.image1 {
+    width: 270px;
+    height: 150px;
+    float: left;
+	margin-left: -80px;
+    margin-right: 0%;
+	margin-top: -10px;
+}
+.image2 {
+    width: 175px;
+    height: 80px;
+    float: left;
+	margin-left: -50px;
+    margin-right: 0px;
+	margin-top: -35px;
+}
+a {
+  color: #cc0000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+.centrato{
+	text-align:center;
+	font-size: 35px;
+	margin-top: -60px;
+}
+
+.centrato a{
+	display: inline-block;
+	margin-right: 50px;
+}
+
+hr.linea{
+	border:none;
+	height: 1.5px;
+	background-color: black;
+	margin: 3% 0;
+	margin-bottom: -10px;
+}
+
+ul{
+	margin-top: 20px;
+}
+
+li{
+	font-size: 25px;
+	margin-bottom: 5px;
+	margin-left: 40px;
+}
+
+h1{
+	color: #cc0000;
+	text-align: left;
+	font-family:Arial;
+	font-size: 220%;
+	margin-top: 35px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+
+.linea pre{
+	color: #cc0000;
+	text-align: left;
+	font-family:Arial;
+	font-size: 220%;
+	margin-top: 40px;
+	margin-bottom: 50px;
+	margin-left: 20px;
+}
+
+.contenuto pre {
+    font-family: Comic Sans MS;
+    font-size: 170%;
+    color: black;
+    padding: 10px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.imageFreccia {
+    width: 400px;
+    height: 100px;
+    float: left;
+	margin-left: 560px;
+    margin-right: 0px;
+	margin-top: -70px;
+}
+
+.imageCop {
+	width: 420px;
+    height: 300px;
+    float: left;
+	margin-left: 850px;
+    margin-right: 0px;
+	margin-top: -300px;
+}
+
+.imageFace{
+	width: 25px;
+    height: 20px;
+    float: left;
+	margin-left: -45px;
+    margin-right: 0px;
+	margin-top: -18px;
+}
+
+.imageInsta{
+	width: 25px;
+    height: 20px;
+    float: left;
+	margin-left: -45px;
+    margin-right: 0px;
+	margin-top: 12px;
+}
