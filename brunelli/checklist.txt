@@ -1,7 +1,0 @@
-gusti CSS separato  + grid
-listino CSS separato + grid
-contatti CSS separato + grid
-come CSS separato + grid
-index grid non necessario, CSS separato
-ordina CSS separato + grid
-storia CSS separato + grid
