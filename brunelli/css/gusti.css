@@ -1,0 +1,74 @@
+#bg_color{
+	background-image:url('../img/sfondo.jpg');
+}
+#logo_header{
+	width:20%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+header{
+	font-family: arial;
+	font-size: 35px;
+	text-align:center;
+	word-spacing:40px;
+	font-family: Rubik Doodle Shadow;
+	font-weight: 400;
+	font-style: normal;
+	color: #004463;
+}
+
+}
+body{
+	font-family: arial;
+	color: #004463;
+	
+}
+#img_gusto{
+	width:300px;
+	height:300px;
+	overflow:hidden;
+	border-radius: 50%;
+}
+#txtgusto{
+	font-family: arial;
+	color: #004463;
+	font-family: "Barlow Condensed", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size:50px;
+}
+div.foot{
+	width:100%;
+	overflow:auto;
+}
+div.foot div { 
+
+  float:left;
+  font-family: arial;
+color: #004463;
+
+font-size:20px;
+font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#footer_logo{
+	width:10%;
+	height:auto;
+	float:left;
+	margin-left:375px;
+	margin-right:50px;
+}
+
+.grid-contenitore{
+	display:grid;
+	gap:150px;
+	padding: 30px;
+	grid-template-columns: auto auto;
+	justify-content:center;
+}
+
+.grid-contenuto{
+	
+}

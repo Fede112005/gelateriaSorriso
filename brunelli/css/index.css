@@ -1,0 +1,85 @@
+#bg_color{
+	background-image:url('../img/sfondo.jpg');
+}
+
+header{
+	font-family: arial;
+	font-size: 35px;
+	text-align:center;
+	word-spacing:40px;
+	font-family: Rubik Doodle Shadow;
+	font-weight: 400;
+	font-style: normal;
+	color: #004463;
+}
+
+}
+body{
+	font-family: arial;
+	color: #004463;
+}	
+#index_text{
+	font-size: 45px;
+	text-align: right;
+	margin-right:200px;
+	font-family: "Barlow Condensed", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#index_gelato{
+
+	margin-left:50px;
+	margin-top:75px;
+}
+div.index{
+	width:100%;
+	overflow:auto;
+}
+div.index div{
+	float:left;
+	margin-left:100px;
+  margin-top:100px;
+  margin-bottom:100px;
+}
+img.gel{
+	width:82%;
+	height:auto;
+}
+div.foot{
+	width:100%;
+	overflow:auto;
+}
+div.foot div { 
+
+  float:left;
+  font-family: arial;
+color: #004463;
+
+font-size:20px;
+font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#footer_logo{
+	width:10%;
+	height:auto;
+	float:left;
+	margin-left:375px;
+	margin-right:50px;
+}
+div.foot{
+	width:100%;
+	overflow:auto;
+}
+div.foot div { 
+
+  float:left;
+  font-family: arial;
+color: #004463;
+
+font-size:20px;
+font-family: "Barlow Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
